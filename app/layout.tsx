@@ -30,6 +30,7 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt cum accusamus aliquid eius fuga. Minus deleniti expedita ut commodi dolorem tempora ipsa, veniam corporis aliquid facilis alias, quisquam hic itaque.</p>
     </html>
   );
 }
